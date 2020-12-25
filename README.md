@@ -35,7 +35,7 @@ module "jira" {
   tags = {
     Owner       = "yegorski"
     Environment = "production"
-    Source      = "https://github.com/yegorski/terraform-aws/jira"
+    Source      = "https://github.com/yegorski/terraform-aws-jira"
   }
 }
 ```
